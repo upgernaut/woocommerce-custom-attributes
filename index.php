@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WiseSource Custom attributes for WooCommerce
+ * Plugin Name: Uptimex Custom attributes for WooCommerce
  * Description: Add custom fields to WooCommerce products
  * Version: 1.0.0
  * Author: https://wisesource.net
