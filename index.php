@@ -3,9 +3,8 @@
  * Plugin Name: Uptimex Custom attributes for WooCommerce
  * Description: Add custom fields to WooCommerce products
  * Version: 1.0.0
- * Author: https://wisesource.net
- * Author URI: https://wisesource.net
- * Text Domain: wsrc
+ * Author: Uptimex
+ * Author URI: https://aramkhachikyan.net
 */
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) {
