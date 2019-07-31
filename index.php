@@ -4,7 +4,7 @@
  * Description: Add custom fields to WooCommerce products
  * Version: 1.0.0
  * Author: Aram Khachikyan
- * Author URI: https://aramkhachikyan.net
+ * Author URI: https://aramkhachikyan.com
 */
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) {
