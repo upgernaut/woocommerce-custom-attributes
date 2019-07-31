@@ -3,7 +3,7 @@
  * Plugin Name: Uptimex Custom attributes for WooCommerce
  * Description: Add custom fields to WooCommerce products
  * Version: 1.0.0
- * Author: Uptimex
+ * Author: Aram Khachikyan
  * Author URI: https://aramkhachikyan.net
 */
 // Exit if accessed directly
