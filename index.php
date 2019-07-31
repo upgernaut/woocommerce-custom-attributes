@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Uptimex Custom attributes for WooCommerce
+ * Plugin Name: Custom attributes for WooCommerce Pretty
  * Description: Add custom fields to WooCommerce products
  * Version: 1.0.0
  * Author: Aram Khachikyan
